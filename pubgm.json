@@ -6,6 +6,18 @@
 "roomid": "ROOM ID : ",
 "roompassword": "PASSWORD : ",
 "winningamount": "RS 500",
+"type": "SQUAD",
+"fee": "RS 100",
+"map": "ERANGEL",
+"version": "TPP",
+"status":"ACTIVE"
+},
+  {
+"title": "PUBG MOBILE ONLINE TOURNAMENT ! MATCH 02 ! PLAY & EARN",
+"time": "30th JULY | TIME : EXACTLY AT 6:00 PM ",
+"roomid": "ROOM ID : ",
+"roompassword": "PASSWORD : ",
+"winningamount": "60 UC",
 "type": "SOLO",
 "fee": "FREE",
 "map": "MIRAMAR",
