@@ -10,8 +10,7 @@
 "fee": "RS 100",
 "map": "ERANGEL",
 "version": "TPP",
-"status":"REGISTRATION AVAILABLE",
-"reg":"1"
+"status":"REGISTRATION AVAILABLE"
 },
   {
 "title": "PUBG MOBILE ONLINE TOURNAMENT ! MATCH 02 ! PLAY & EARN",
@@ -23,8 +22,7 @@
 "fee": "FREE",
 "map": "MIRAMAR",
 "version": "TPP",
-"status":"REGISTRATION UNAVAILABLE",
-"reg":""
+"status":"REGISTRATION UNAVAILABLE"
 }
 ]
 }
