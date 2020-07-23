@@ -9,7 +9,8 @@
 "type": "SOLO",
 "fee": "FREE",
 "map": "MIRAMAR",
-"version": "TPP"
+"version": "TPP",
+"status":"ACTIVE"
 }
 ]
 }
